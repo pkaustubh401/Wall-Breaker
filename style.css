@@ -77,14 +77,18 @@ canvas {
             top:40px;
             left:220px;
         }
+#canvas{
+            width:400px;
+            height: 500px;
+            position: relative
+}
 #gameover{
             position:absolute;
-            top:215px;
+            top:0px;
             width : 400px;
             height: 500px;
             background: rgba(0,0,0,0.5);
             display: none;
-    
         }
 #youwon{
             width: 100px;

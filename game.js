@@ -19,7 +19,7 @@ const padde_height=20;
 const paddle_bottom_margin=50;
 const ball_radius=8;
 const score_unit=10;
-const max_level=1;
+const max_level=5;
 
 let left_arrow=false;
 let right_arrow=false;
